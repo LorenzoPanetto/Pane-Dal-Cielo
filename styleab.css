@@ -1,5 +1,5 @@
 body {
-  background-image: url("/images/panini.jpg");
+  background-image: url("images/panini.jpg");
   background-size: cover;
 }
 .col-1 p{
